@@ -1,4 +1,4 @@
-![suzumeplaceholder](https://images.groobee.com/images/suzume-isu-craft/fcQtd8raKvRm4NKKbcer7UXZjvNoHINloJhys5xp.jpg)
+![heiplaceholder](https://i.kek.sh/9mVGl4mr04l.png)
 
 # The Legend of Hei (2019)
 
@@ -8,7 +8,7 @@
 
 **STAFF:**
 
-- **Versión original:** Shout! Factory, Troy
+- **Versión original:** Shout! Factory, Netflix SG, Troy
 - **Traducción y adaptación:** Zagon
 - **Corrección**: ??
 - **Timing**: Trota
