@@ -15,14 +15,14 @@ Update Details: Add Sincro
 WrapStyle: 0
 
 [Aegisub Project Garbage]
-Audio File: ../../../Downloads/Video/The.Legend.of.Hei.2019.1080p.US.BluRay.REMUX.DUAL.DTS-HD.MA.5.1.AVC-ZigZag.mkv
-Video File: ../../../Downloads/Video/The.Legend.of.Hei.2019.1080p.US.BluRay.REMUX.DUAL.DTS-HD.MA.5.1.AVC-ZigZag.mkv
+Audio File: ../../../../Downloads/Video/The.Legend.of.Hei.2019.1080p.US.BluRay.REMUX.DUAL.DTS-HD.MA.5.1.AVC-ZigZag.mkv
+Video File: ../../../../Downloads/Video/The.Legend.of.Hei.2019.1080p.US.BluRay.REMUX.DUAL.DTS-HD.MA.5.1.AVC-ZigZag.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 1011
-Active Line: 1014
-Video Position: 118056
+Scroll Position: 466
+Active Line: 477
+Video Position: 72755
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -292,20 +292,19 @@ Dialogue: 0,0:38:11.24,0:38:12.22,Default,,0,0,0,,¡Oigan!
 Dialogue: 0,0:38:13.33,0:38:14.08,Default,,0,0,0,,¿Qué están haciendo?
 Dialogue: 0,0:38:14.64,0:38:15.70,Default,,0,0,0,,Hola.
 Dialogue: 0,0:38:15.70,0:38:16.66,Default,,0,0,0,,¿Podría decirnos dónde estamos?
-Dialogue: 0,0:38:17.65,0:38:18.46,Default,,0,0,0,,Está en las islas XiaoXiang.
+Dialogue: 0,0:38:17.65,0:38:18.46,Default,,0,0,0,,{Está }En las islas XiaoXiang.
 Dialogue: 0,0:38:19.10,0:38:19.79,Default,,0,0,0,,Perdón,
 Dialogue: 0,0:38:19.79,0:38:20.87,Default,,0,0,0,,¿qué provincia es esta?
 Dialogue: 0,0:38:23.37,0:38:25.08,Default,,0,0,0,,¡Son inmigrantes ilegales!
 Dialogue: 0,0:38:25.64,0:38:26.35,Default,,0,0,0,,No.
 Dialogue: 0,0:38:26.35,0:38:27.18,Default,,0,0,0,,Solo estoy perdido.
-Dialogue: 0,0:38:27.18,0:38:28.46,Default,,0,0,0,,¡¿Cómo te pierdes \Ny terminas en una provincia distinta?!
+Dialogue: 0,0:38:27.18,0:38:28.46,Default,,0,0,0,,¡¿Te perdiste y terminaste\Nen una provincia distinta?!{¡¿Cómo te pierdes \Ny terminas en una provincia distinta?!}
 Dialogue: 0,0:38:29.52,0:38:30.29,Default,,0,0,0,,Déjeme explicar.
 Dialogue: 0,0:38:30.29,0:38:31.73,Default,,0,0,0,,¡No me intente engañar!
-Dialogue: 0,0:38:31.73,0:38:32.02,Default,,0,0,0,,¡Oye!
-Dialogue: 0,0:38:32.02,0:38:32.99,Default,,0,0,0,,¡Llama a la policía!
+Dialogue: 0,0:38:31.73,0:38:32.99,Default,,0,0,0,,¡Oye! ¡Llama a la policía!
 Dialogue: 0,0:38:35.90,0:38:37.32,Default,,0,0,0,,Soy un inmigrante.
 Dialogue: 0,0:38:37.32,0:38:39.61,Default,,0,0,0,,Así que dígame que provincia es esta.
-Dialogue: 0,0:38:39.61,0:38:41.29,Default,,0,0,0,,Provincia de Fulán.
+Dialogue: 0,0:38:39.61,0:38:41.29,Default,,0,0,0,,Provincia de Fulan. {parece que no existe? wtf}
 Dialogue: 0,0:38:51.92,0:38:52.93,Default,,0,0,0,,¡Ya me voy!
 Dialogue: 0,0:38:53.80,0:38:55.21,Default,,0,0,0,,Déjame comprarte algo de comer.
 Dialogue: 0,0:38:57.33,0:38:58.02,Default,,0,0,0,,Quiero esto.
@@ -351,14 +350,14 @@ Dialogue: 0,0:41:07.40,0:41:08.71,Default,,0,0,0,,Es como un policía.
 Dialogue: 0,0:41:08.71,0:41:09.92,Default,,0,0,0,,¿Qué?
 Dialogue: 0,0:41:12.73,0:41:14.46,Default,,0,0,0,,Hago deberes para ellos.
 Dialogue: 0,0:41:14.93,0:41:16.75,Default,,0,0,0,,¿Hay otros humanos en el Gremio?
-Dialogue: 0,0:41:17.09,0:41:17.33,Default,,0,0,0,,Hay algunos.
+Dialogue: 0,0:41:17.09,0:41:17.33,Default,,0,0,0,,Algunos.
 Dialogue: 0,0:41:17.33,0:41:18.25,Default,,0,0,0,,Entonces no iré.
 Dialogue: 0,0:41:19.04,0:41:21.40,Default,,0,0,0,,O me obedeces,
 Dialogue: 0,0:41:21.40,0:41:22.77,Default,,0,0,0,,o tendré que atarte.
 Dialogue: 0,0:41:23.69,0:41:24.61,Default,,0,0,0,,¡Maldito!
 Dialogue: 0,0:41:33.28,0:41:34.68,Default,,0,0,0,,¡Bájame! {¡Suéltame!}
 Dialogue: 0,0:41:34.68,0:41:36.23,Default,,0,0,0,,Habrá un castigo si intentas huir otra vez.
-Dialogue: 0,0:41:36.23,0:41:38.62,Default,,0,0,0,,¡No lo volveré a hacer!\N¡Súeltame!
+Dialogue: 0,0:41:36.23,0:41:38.62,Default,,0,0,0,,¡No lo volveré a hacer!\N¡Suéltame!
 Dialogue: 0,0:41:40.40,0:41:42.10,Default,,0,0,0,,También tienes que ocultar tu cola.
 Dialogue: 0,0:41:42.70,0:41:43.92,Default,,0,0,0,,¡Déjame ir!
 Dialogue: 0,0:41:44.53,0:41:45.95,Default,,0,0,0,,Serán dos horas de castigo.
@@ -462,8 +461,8 @@ Dialogue: 0,0:48:26.41,0:48:27.73,Default,,0,0,0,,¿Tienen una misión?
 Dialogue: 0,0:48:27.73,0:48:28.46,Default,,0,0,0,,Sí.
 Dialogue: 0,0:48:28.46,0:48:32.15,Default,,0,0,0,,Flujo sintió tu presencia\Ne insistió que te visitemos. {og: RuoShui}
 Dialogue: 0,0:48:32.15,0:48:34.27,Default,,0,0,0,,Y después nos obligó a venir aquí.
-Dialogue: 0,0:48:34.27,0:48:35.02,Default,,0,0,0,,¿Qué pasa, viejo?
-Dialogue: 0,0:48:35.02,0:48:36.04,Default,,0,0,0,,¿Hay algún problema?
+Dialogue: 0,0:48:34.27,0:48:35.02,Default,,0,0,0,,¡¿Qué pasa, viejo?!
+Dialogue: 0,0:48:35.02,0:48:36.04,Default,,0,0,0,,¡¿Tienes algún problema?!
 Dialogue: 0,0:48:36.62,0:48:38.04,Default,,0,0,0,,No, no pasa nada, cariño.
 Dialogue: 0,0:48:43.59,0:48:45.17,Default,,0,0,0,,Por cierto,
 Dialogue: 0,0:48:45.17,0:48:47.40,Default,,0,0,0,,¿vas a llevar a Hei al Gremio?
@@ -509,8 +508,7 @@ Dialogue: 0,0:50:17.83,0:50:18.68,Default,,0,0,0,,Ustedes son débiles.
 Dialogue: 0,0:50:25.34,0:50:27.96,Default,,0,0,0,,No me gusta estar cerca de los humanos.
 Dialogue: 0,0:50:27.96,0:50:29.26,Default,,0,0,0,,Solía vivir en una cueva.
 Dialogue: 0,0:50:29.26,0:50:31.00,Default,,0,0,0,,Una cueva única.
-Dialogue: 0,0:50:31.43,0:50:32.84,Default,,0,0,0,,Pero se convirtió en una atracción turística
-Dialogue: 0,0:50:32.84,0:50:34.40,Default,,0,0,0,,hace más o menos una década.
+Dialogue: 0,0:50:31.43,0:50:34.40,Default,,0,0,0,,Pero se convirtió en una atracción turística hace más o menos una década.
 Dialogue: 0,0:50:34.40,0:50:35.63,Default,,0,0,0,,Tienes que pagar para entrar.
 Dialogue: 0,0:50:35.63,0:50:37.24,Default,,0,0,0,,Está en un lugar peligroso.
 Dialogue: 0,0:50:37.24,0:50:38.73,Default,,0,0,0,,Viví ahí durante cientos de años.
@@ -934,7 +932,7 @@ Dialogue: 0,1:11:39.83,1:11:41.31,Default,,0,0,0,,Ese maldito...
 Dialogue: 0,1:11:41.31,1:11:42.54,Default,,0,0,0,,¡Maestro, lo encontramos!
 Dialogue: 0,1:11:42.54,1:11:44.51,Default,,0,0,0,,Detecté la onda espiritual de Tormenta.
 Dialogue: 0,1:11:46.40,1:11:47.89,Default,,0,0,0,,El poder que acabo de usar
-Dialogue: 0,1:11:47.89,1:11:49.43,Default,,0,0,0,,debe de haber sido detectado por los Sentinelas. {meh}
+Dialogue: 0,1:11:47.89,1:11:49.43,Default,,0,0,0,,debe de haber sido detectado por los centinelas. {meh}
 Dialogue: 0,1:11:49.88,1:11:51.97,Default,,0,0,0,,Debemos dispersarnos ahora.
 Dialogue: 0,1:11:52.53,1:11:54.50,Default,,0,0,0,,Ni bien vean que La Zona se ha establecido,
 Dialogue: 0,1:11:54.50,1:11:55.16,Default,,0,0,0,,búsquennos.
