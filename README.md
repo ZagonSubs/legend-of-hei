@@ -12,7 +12,7 @@
 - **Traducción y adaptación:** Zagon
 - **Corrección**: ??
 - **Timing**: Trota
-- **Encode:** RaiN
+- **Encode:** Pan con Palta
 
 ---
 
