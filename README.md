@@ -10,7 +10,7 @@
 
 - **Versión original:** Shout! Factory, Netflix SG, Troy
 - **Traducción y adaptación:** Zagon
-- **Corrección**: Anonnete
+- **Corrección**: Anonnette
 - **Timing**: Trota
 - **Typesetting**: Jaku
 - **Encode:** Pan con Palta/Encoder Anárquico
