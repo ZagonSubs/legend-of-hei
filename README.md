@@ -13,7 +13,7 @@
 - **Corrección**: Anonnette
 - **Timing**: Trota
 - **Typesetting**: Jaku
-- **Encode:** Pan con Palta/Encoder Anárquico
+- **Encode:** Pan con Palta/[Encoder Anárquico](https://i.kek.sh/cFr2XeAxoSi.png)
 
 ---
 
