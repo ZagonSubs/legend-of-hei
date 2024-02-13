@@ -18,7 +18,9 @@ WrapStyle: 0
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Google Sans Medium,70,&H00FFFFFF,&H000000FF,&H00000000,&H32000000,0,0,0,0,94,100,0,0,1,3.9,0,2,150,150,45,1
 Style: DefaultTop,Google Sans Medium,70,&H00FFFFFF,&H000000FF,&H00000000,&H32000000,0,0,0,0,94,100,0,0,1,3.9,0,8,150,150,45,1
+Style: CreditSigns,laCartoonerie,22,&H00519CA9,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,90,100,0,0,1,0,0,5,200,200,39,1
 Style: DefaultHeixiu,Google Sans Medium,60,&H1EFFFFFF,&H000000FF,&H1E000000,&H37000000,0,0,0,0,94,100,0,0,1,2.99,0.5,2,150,150,48,1
+Style: Edición,Noto Sans,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,60,60,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -32,31 +34,31 @@ Dialogue: 0,0:07:15.31,0:07:17.79,Default,,0,0,0,,No hagas ruido o tendremos pro
 Dialogue: 0,0:07:22.07,0:07:22.91,Default,,0,0,0,,No tengas miedo.
 Dialogue: 0,0:07:25.31,0:07:26.38,Default,,0,0,0,,Eres igual a nosotros.
 Dialogue: 0,0:07:42.62,0:07:43.64,Default,,0,0,0,,Me llamo FengXi.
-Dialogue: 0,0:07:44.30,0:07:45.19,Default,,0,0,0,,¿Cómo te llamas tú?
-Dialogue: 0,0:08:04.64,0:08:05.39,Default,,0,0,0,,Hei.
+Dialogue: 0,0:07:44.30,0:07:45.19,Default,,0,0,0,,¿Tú cómo te llamas?
+Dialogue: 0,0:08:04.64,0:08:05.39,Default,,0,0,0,,XiaoHei.
 Dialogue: 0,0:08:06.14,0:08:07.07,Default,,0,0,0,,Sígueme.
 Dialogue: 0,0:08:52.15,0:08:52.87,Default,,0,0,0,,Por aquí.
 Dialogue: 0,0:10:02.78,0:10:05.40,Default,,0,0,0,,Este es un lugar abandonado por los humanos.
 Dialogue: 0,0:10:13.52,0:10:14.58,Default,,0,0,0,,Él es XuHuai.
 Dialogue: 0,0:10:16.57,0:10:17.74,Default,,0,0,0,,Está reuniendo energía espiritual. {aaaaaaaaaaaaaa}
-Dialogue: 0,0:10:20.52,0:10:21.36,Default,,0,0,0,,¡Oye!
+Dialogue: 0,0:10:20.52,0:10:21.36,Default,,0,0,0,,¡Hola!
 Dialogue: 0,0:10:21.81,0:10:22.69,Default,,0,0,0,,¡Volviste!
 Dialogue: 0,0:10:23.28,0:10:24.83,Default,,0,0,0,,Llegaste temprano hoy.
 Dialogue: 0,0:10:30.27,0:10:30.83,Default,,0,0,0,,¿Un gatito?
 Dialogue: 0,0:10:34.87,0:10:36.38,Default,,0,0,0,,Ellos son LuoZhu y TianHu.
 Dialogue: 0,0:10:38.09,0:10:39.91,Default,,0,0,0,,¿Por qué trajiste un gato?
-Dialogue: 0,0:10:48.26,0:10:49.52,Default,,0,0,0,,Me llamo Hei.
+Dialogue: 0,0:10:48.26,0:10:49.52,Default,,0,0,0,,Me llamo XiaoHei.
 Dialogue: 0,0:10:49.52,0:10:50.79,Default,,0,0,0,,Yo también soy un espíritu.
 Dialogue: 0,0:10:53.87,0:10:55.29,Default,,0,0,0,,¿Y por qué tienes orejas?
 Dialogue: 0,0:10:56.57,0:10:58.42,Default,,0,0,0,,¡Estoy aprendiendo a controlarlo!
 Dialogue: 0,0:10:58.42,0:10:59.63,Default,,0,0,0,,¡Qué lindo!
-Dialogue: 0,0:11:00.18,0:11:02.48,Default,,0,0,0,,TianHu, hay que celebrar la llegada de Hei.
+Dialogue: 0,0:11:00.18,0:11:02.48,Default,,0,0,0,,TianHu, hay que celebrar la llegada de XiaoHei.
 Dialogue: 0,0:11:02.83,0:11:03.68,Default,,0,0,0,,Carne.
 Dialogue: 0,0:12:14.89,0:12:16.00,Default,,0,0,0,,Maestro WuXian.
 Dialogue: 0,0:12:16.00,0:12:17.49,Default,,0,0,0,,Encontré a FengXi.
-Dialogue: 0,0:12:21.46,0:12:22.73,Default,,0,0,0,,¡Brindemos por la llegada de Hei!
+Dialogue: 0,0:12:21.46,0:12:22.73,Default,,0,0,0,,¡Brindemos por la llegada de XiaoHei!
 Dialogue: 0,0:12:22.73,0:12:23.96,Default,,0,0,0,,¡Salud!
-Dialogue: 0,0:12:30.25,0:12:30.97,Default,,0,0,0,,Hei.
+Dialogue: 0,0:12:30.25,0:12:30.97,Default,,0,0,0,,XiaoHei.
 Dialogue: 0,0:12:32.88,0:12:34.28,Default,,0,0,0,,Relájate.
 Dialogue: 0,0:12:34.28,0:12:35.89,Default,,0,0,0,,Mira esto.
 Dialogue: 0,0:12:52.93,0:12:54.91,Default,,0,0,0,,Eres bueno con los niños.
@@ -64,7 +66,7 @@ Dialogue: 0,0:12:54.91,0:12:56.48,Default,,0,0,0,,¿Quieres ver copos de nieve?
 Dialogue: 0,0:12:56.97,0:12:57.85,Default,,0,0,0,,No, gracias.
 Dialogue: 0,0:13:01.98,0:13:02.80,Default,,0,0,0,,Carne.
 Dialogue: 0,0:13:11.07,0:13:12.71,Default,,0,0,0,,Un pedazo de carne te ganó.{Un pedazo de carne te acaba de derrotar.}
-Dialogue: 0,0:13:14.47,0:13:15.27,Default,,0,0,0,,Hei.
+Dialogue: 0,0:13:14.47,0:13:15.27,Default,,0,0,0,,XiaoHei.
 Dialogue: 0,0:13:15.89,0:13:17.75,Default,,0,0,0,,¿Por qué no te quedas con nosotros?
 Dialogue: 0,0:13:18.34,0:13:19.91,Default,,0,0,0,,Yo...
 Dialogue: 0,0:13:21.09,0:13:22.25,Default,,0,0,0,,Yo...
@@ -81,14 +83,14 @@ Dialogue: 0,0:13:51.59,0:13:52.69,Default,,0,0,0,,Entra.
 Dialogue: 0,0:13:52.69,0:13:53.93,Default,,0,0,0,,Esta será tu habitación.
 Dialogue: 0,0:14:02.87,0:14:04.58,Default,,0,0,0,,Yo ya me voy.
 Dialogue: 0,0:14:04.58,0:14:05.29,Default,,0,0,0,,Descansa.
-Dialogue: 0,0:15:28.49,0:15:29.17,Default,,0,0,0,,Hei.
+Dialogue: 0,0:15:28.49,0:15:29.17,Default,,0,0,0,,XiaoHei.
 Dialogue: 0,0:15:32.07,0:15:33.05,Default,,0,0,0,,WuXian.
 Dialogue: 0,0:15:33.05,0:15:34.37,Default,,0,0,0,,Eres humano.
 Dialogue: 0,0:15:34.37,0:15:35.64,Default,,0,0,0,,¿Por qué ayudas al Gremio?
 Dialogue: 0,0:15:36.33,0:15:38.14,Default,,0,0,0,,Solo vine a capturarte.
 Dialogue: 0,0:15:38.14,0:15:38.93,Default,,0,0,0,,No voy a{necesito} dar explicaciones.
 Dialogue: 0,0:15:39.76,0:15:40.43,Default,,0,0,0,,¡Retrocedan!
-Dialogue: 0,0:16:07.38,0:16:08.32,Default,,0,0,0,,¡Hei!
+Dialogue: 0,0:16:07.38,0:16:08.32,Default,,0,0,0,,¡XiaoHei!
 Dialogue: 0,0:16:08.32,0:16:09.17,Default,,0,0,0,,¡Regresa!
 Dialogue: 0,0:16:30.18,0:16:30.93,Default,,0,0,0,,¡Huyan!
 Dialogue: 0,0:16:30.93,0:16:31.36,Default,,0,0,0,,Pero...
@@ -97,17 +99,17 @@ Dialogue: 0,0:16:34.00,0:16:34.65,Default,,0,0,0,,¡Huyan!
 Dialogue: 0,0:17:28.14,0:17:29.13,Default,,0,0,0,,¿Qué es este lugar?
 Dialogue: 0,0:17:36.11,0:17:37.34,Default,,0,0,0,,¿Cómo estás?
 Dialogue: 0,0:17:37.34,0:17:38.11,Default,,0,0,0,,Estoy bien.
-Dialogue: 0,0:17:38.67,0:17:39.89,Default,,0,0,0,,Perdimos a Hei.
+Dialogue: 0,0:17:38.67,0:17:39.89,Default,,0,0,0,,Perdimos a XiaoHei.
 Dialogue: 0,0:17:40.51,0:17:41.84,Default,,0,0,0,,Y el portal también.
 Dialogue: 0,0:17:44.33,0:17:46.57,Default,,0,0,0,,¿Cómo es que un solo humano \Npudo hacernos esto?
 Dialogue: 0,0:17:46.57,0:17:48.19,Default,,0,0,0,,Es porque es WuXian.
 Dialogue: 0,0:17:48.19,0:17:49.60,Default,,0,0,0,,Es el Ejecutor vivo más fuerte.
 Dialogue: 0,0:17:50.48,0:17:52.15,Default,,0,0,0,,No lo trates como un humano cualquiera.
-Dialogue: 0,0:17:52.15,0:17:53.85,Default,,0,0,0,,¿Entonces dejaremos a Hei?
+Dialogue: 0,0:17:52.15,0:17:53.85,Default,,0,0,0,,¿Entonces dejaremos a XiaoHei?
 Dialogue: 0,0:17:53.85,0:17:55.11,Default,,0,0,0,,Claro que no.
 Dialogue: 0,0:17:55.11,0:17:56.34,Default,,0,0,0,,Lo puedes encontrar, ¿no?
 Dialogue: 0,0:17:56.34,0:17:57.30,Default,,0,0,0,,Sí.
-Dialogue: 0,0:17:57.30,0:17:59.53,Default,,0,0,0,,Ya puse una marca Hei.
+Dialogue: 0,0:17:57.30,0:17:59.53,Default,,0,0,0,,Ya puse una marca en XiaoHei.
 Dialogue: 0,0:17:59.98,0:18:01.95,Default,,0,0,0,,WuXian lo llevará al Gremio.
 Dialogue: 0,0:18:02.51,0:18:03.45,Default,,0,0,0,,Aún tenemos oportunidad.
 Dialogue: 0,0:18:04.31,0:18:05.67,Default,,0,0,0,,No podremos contra él.
@@ -117,7 +119,7 @@ Dialogue: 0,0:18:09.69,0:18:10.83,Default,,0,0,0,,¿Vas a ir a...?
 Dialogue: 0,0:18:11.66,0:18:12.27,Default,,0,0,0,,Sí.
 Dialogue: 0,0:18:13.16,0:18:14.42,Default,,0,0,0,,Ya se me acabó la paciencia.
 Dialogue: 0,0:18:19.98,0:18:21.16,Default,,0,0,0,,Entendido.
-Dialogue: 0,0:18:21.16,0:18:22.51,Default,,0,0,0,,Encontraremos a Hei.
+Dialogue: 0,0:18:21.16,0:18:22.51,Default,,0,0,0,,Encontraremos a XiaoHei.
 Dialogue: 0,0:18:23.37,0:18:24.44,Default,,0,0,0,,Bien.
 Dialogue: 0,0:18:24.44,0:18:25.43,Default,,0,0,0,,Cuento con ustedes.
 Dialogue: 0,0:18:28.60,0:18:30.02,Default,,0,0,0,,¿En dónde estamos?
@@ -180,11 +182,11 @@ Dialogue: 0,0:25:11.45,0:25:13.21,Default,,0,0,0,,Disculpe, maestro.
 Dialogue: 0,0:26:01.37,0:26:03.39,Default,,0,0,0,,Que mal clima.
 Dialogue: 0,0:26:15.62,0:26:16.12,Default,,0,0,0,,¿Un dragón?
 Dialogue: 0,0:26:18.91,0:26:20.16,Default,,0,0,0,,Eso no es normal.
-Dialogue: 0,0:27:00.25,0:27:01.70,Default,,0,0,0,,¿Esta es...?
-Dialogue: 0,0:27:03.76,0:27:04.77,Default,,0,0,0,,¿La Zona?
+Dialogue: 0,0:27:00.25,0:27:01.70,Default,,0,0,0,,¿Esto es...?
+Dialogue: 0,0:27:03.76,0:27:04.77,Default,,0,0,0,,¿Dominio?
 Dialogue: 0,0:28:03.29,0:28:04.61,Default,,0,0,0,,¿Cómo te llamas?
-Dialogue: 0,0:28:05.09,0:28:06.24,Default,,0,0,0,,Hei.
-Dialogue: 0,0:28:07.52,0:28:08.68,Default,,0,0,0,,¿Hei?
+Dialogue: 0,0:28:05.09,0:28:06.24,Default,,0,0,0,,XiaoHei.
+Dialogue: 0,0:28:07.52,0:28:08.68,Default,,0,0,0,,¿XiaoHei?
 Dialogue: 0,0:28:13.27,0:28:15.78,Default,,0,0,0,,Intenta volver a usar tus poderes.
 Dialogue: 0,0:28:17.06,0:28:18.36,Default,,0,0,0,,¿Cuáles poderes?
 Dialogue: 0,0:29:06.38,0:29:07.25,Default,,0,0,0,,Entra.
@@ -236,7 +238,7 @@ Dialogue: 0,0:33:47.60,0:33:49.31,Default,,0,0,0,,Está cerrado.
 Dialogue: 0,0:33:50.66,0:33:51.57,Default,,0,0,0,,¿Tú eres HuaHu?
 Dialogue: 0,0:33:54.52,0:33:55.40,Default,,0,0,0,,¿Y tú eres...?
 Dialogue: 0,0:34:01.13,0:34:04.89,Default,,0,0,0,,Si algo le interesa de mi humilde tienda, señor,
-Dialogue: 0,0:34:04.89,0:34:06.45,Default,,0,0,0,,solo avíseme.
+Dialogue: 0,0:34:04.89,0:34:06.45,Default,,0,0,0,,solo dígame.
 Dialogue: 0,0:34:30.22,0:34:31.11,Default,,0,0,0,,Detén tus hechizos.
 Dialogue: 0,0:34:39.54,0:34:40.79,Default,,0,0,0,,Muéstrate,
 Dialogue: 0,0:34:40.79,0:34:41.95,Default,,0,0,0,,o destruiré todo este lugar.
@@ -321,7 +323,7 @@ Dialogue: 0,0:40:02.37,0:40:03.62,Default,,0,0,0,,Fue un accidente.
 Dialogue: 0,0:40:06.29,0:40:07.18,Default,,0,0,0,,Ya me voy.
 Dialogue: 0,0:40:08.51,0:40:09.65,Default,,0,0,0,,¿A dónde vas?
 Dialogue: 0,0:40:10.72,0:40:12.00,Default,,0,0,0,,A buscar a FengXi.
-Dialogue: 0,0:40:16.04,0:40:16.96,Default,,0,0,0,,Hei.
+Dialogue: 0,0:40:16.04,0:40:16.96,Default,,0,0,0,,XiaoHei.
 Dialogue: 0,0:40:20.46,0:40:21.60,Default,,0,0,0,,Ven conmigo al Gremio.
 Dialogue: 0,0:40:28.59,0:40:30.16,Default,,0,0,0,,¡Suéltame!
 Dialogue: 0,0:40:30.16,0:40:32.46,Default,,0,0,0,,¡Dijiste que me dejarías ir!
@@ -385,10 +387,10 @@ Dialogue: 0,0:45:17.35,0:45:18.78,Default,,0,0,0,,Ten cuidado con el Gremio
 Dialogue: 0,0:45:18.78,0:45:20.73,Default,,0,0,0,,e intenta que no te vean.
 Dialogue: 0,0:45:20.73,0:45:21.60,Default,,0,0,0,,¿FengXi nos dará el alcance?
 Dialogue: 0,0:45:23.31,0:45:25.88,Default,,0,0,0,,Tendremos que ir más lento si no llegará.
-Dialogue: 0,0:45:34.45,0:45:36.76,Default,,0,0,0,,¿Conoces La Zona?
-Dialogue: 0,0:45:38.17,0:45:39.59,Default,,0,0,0,,No la conozco.
+Dialogue: 0,0:45:34.45,0:45:36.76,Default,,0,0,0,,¿Conoces Dominio?
+Dialogue: 0,0:45:38.17,0:45:39.59,Default,,0,0,0,,No lo conozco.
 Dialogue: 0,0:45:39.59,0:45:41.62,Default,,0,0,0,,Es uno de los poderes que posees.
-Dialogue: 0,0:45:42.07,0:45:43.35,Default,,0,0,0,,¿La Zona?
+Dialogue: 0,0:45:42.07,0:45:43.35,Default,,0,0,0,,¿Dominio?
 Dialogue: 0,0:45:44.09,0:45:45.29,Default,,0,0,0,,¿Es genial? {meh}
 Dialogue: 0,0:45:45.77,0:45:47.42,Default,,0,0,0,,Es similar al que yo tengo, Devorar,
 Dialogue: 0,0:45:47.42,0:45:48.72,Default,,0,0,0,,otro poder tipo Espacio
@@ -456,7 +458,7 @@ Dialogue: 0,0:48:25.34,0:48:26.09,Default,,0,0,0,,¡¿Qué pasa, viejo?!
 Dialogue: 0,0:48:26.09,0:48:27.12,Default,,0,0,0,,¡¿Tienes algún problema?!
 Dialogue: 0,0:48:27.70,0:48:29.12,Default,,0,0,0,,No, no pasa nada, cariño.
 Dialogue: 0,0:48:34.67,0:48:36.25,Default,,0,0,0,,Por cierto,
-Dialogue: 0,0:48:36.25,0:48:38.49,Default,,0,0,0,,¿vas a llevar a Hei al Gremio?
+Dialogue: 0,0:48:36.25,0:48:38.49,Default,,0,0,0,,¿vas a llevar a XiaoHei al Gremio?
 Dialogue: 0,0:48:39.00,0:48:39.66,Default,,0,0,0,,Sí.
 Dialogue: 0,0:48:42.62,0:48:45.24,Default,,0,0,0,,Ya me habré ido para cuando lleguemos.
 Dialogue: 0,0:48:47.78,0:48:49.19,Default,,0,0,0,,¿Entonces no quiere?
@@ -513,7 +515,7 @@ Dialogue: 0,0:50:46.03,0:50:49.46,Default,,0,0,0,,Incluso varios espíritus del 
 Dialogue: 0,0:50:49.97,0:50:51.35,Default,,0,0,0,,En mi opinión, los humanos son interesantes.
 Dialogue: 0,0:50:51.35,0:50:53.76,Default,,0,0,0,,Pero WuXian es el más interesante de todos.
 Dialogue: 0,0:50:53.76,0:50:55.54,Default,,0,0,0,,Por supuesto.
-Dialogue: 0,0:50:57.23,0:50:57.90,Default,,0,0,0,,Hei.
+Dialogue: 0,0:50:57.23,0:50:57.90,Default,,0,0,0,,XiaoHei, XiaoHei.
 Dialogue: 0,0:50:58.39,0:51:00.43,Default,,0,0,0,,WuXian ha hecho bastante para los espíritus.
 Dialogue: 0,0:51:00.43,0:51:02.40,Default,,0,0,0,,No debes de odiarlo.
 Dialogue: 0,0:51:03.54,0:51:05.15,Default,,0,0,0,,Ve y visita el Gremio.
@@ -532,7 +534,7 @@ Dialogue: 0,0:51:24.09,0:51:25.15,Default,,0,0,0,,¿Por qué desperdiciarlo?
 Dialogue: 0,0:51:25.15,0:51:25.94,Default,,0,0,0,,Verdad.
 Dialogue: 0,0:51:26.91,0:51:28.17,Default,,0,0,0,,¡Salud!
 Dialogue: 0,0:51:37.48,0:51:39.34,Default,,0,0,0,,Bien, ya nos vamos.
-Dialogue: 0,0:51:40.43,0:51:41.38,Default,,0,0,0,,Hei.
+Dialogue: 0,0:51:40.43,0:51:41.38,Default,,0,0,0,,XiaoHei.
 Dialogue: 0,0:51:41.38,0:51:43.27,Default,,0,0,0,,Espero verte en el Gremio.
 Dialogue: 0,0:51:44.44,0:51:45.42,Default,,0,0,0,,Esperen.
 Dialogue: 0,0:51:48.56,0:51:49.47,Default,,0,0,0,,Préstenme dinero.
@@ -558,7 +560,7 @@ Dialogue: 0,0:53:03.97,0:53:05.97,Default,,0,0,0,,Pero ¿por qué no puedo usar 
 Dialogue: 0,0:53:05.97,0:53:06.82,Default,,0,0,0,,Dale tiempo.
 Dialogue: 0,0:53:09.31,0:53:11.51,Default,,0,0,0,,¿También podré usar Devorar?
 Dialogue: 0,0:53:12.43,0:53:14.94,Default,,0,0,0,,Solo puedes tener \Nun solo tipo de poder Espacio.
-Dialogue: 0,0:53:15.62,0:53:18.99,Default,,0,0,0,,¿La Zona es más poderoso que tu Devorar?
+Dialogue: 0,0:53:15.62,0:53:18.99,Default,,0,0,0,,¿Mi Dominio es más poderoso que tu Devorar?
 Dialogue: 0,0:53:18.99,0:53:20.41,Default,,0,0,0,,Depende de la persona que lo use.
 Dialogue: 0,0:53:20.41,0:53:21.55,Default,,0,0,0,,Lo tomaré como un sí.
 Dialogue: 0,0:53:21.95,0:53:23.16,Default,,0,0,0,,Tienes demasiado por aprender.
@@ -567,7 +569,7 @@ Dialogue: 0,0:53:24.88,0:53:25.79,Default,,0,0,0,,Cuidado con esa boca.
 Dialogue: 0,0:53:28.04,0:53:29.14,Default,,0,0,0,,Tú eres humano.
 Dialogue: 0,0:53:29.14,0:53:30.94,Default,,0,0,0,,¿Por qué eres tan poderoso?
 Dialogue: 0,0:53:30.94,0:53:31.98,Default,,0,0,0,,¿Quieres ser mi aprendiz?
-Dialogue: 0,0:54:15.99,0:54:16.47,Default,,0,0,0,,Hei.
+Dialogue: 0,0:54:15.99,0:54:16.44,Default,,0,0,0,,XiaoHei.
 Dialogue: 0,0:54:19.02,0:54:20.61,Default,,0,0,0,,Si no te gusta el Gremio,
 Dialogue: 0,0:54:21.24,0:54:21.94,Default,,0,0,0,,te dejaré ir.
 Dialogue: 0,0:54:23.28,0:54:24.14,Default,,0,0,0,,No te creo.
@@ -654,11 +656,11 @@ Dialogue: 0,0:57:53.36,0:57:55.44,Default,,0,0,0,,Soy un espíritu de flores.
 Dialogue: 0,0:57:55.44,0:57:57.71,Default,,0,0,0,,También me adoptó el Maestro WuXian.
 Dialogue: 0,0:57:59.12,0:58:01.17,Default,,0,0,0,,¿Vas camino al Gremio?
 Dialogue: 0,0:58:01.17,0:58:02.05,Default,,0,0,0,,Sí.
-Dialogue: 0,0:58:02.05,0:58:03.12,Default,,0,0,0,,Voy a llevar a Hei ahí.
+Dialogue: 0,0:58:02.05,0:58:03.12,Default,,0,0,0,,Voy a llevar a XiaoHei ahí.
 Dialogue: 0,0:58:03.12,0:58:05.46,Default,,0,0,0,,Entonces nos veremos más seguido.
 Dialogue: 0,0:58:06.66,0:58:08.30,Default,,0,0,0,,Aún tengo trabajo por hacer.
 Dialogue: 0,0:58:08.30,0:58:10.22,Default,,0,0,0,,Ya me voy, Maestro{ WuXian}.
-Dialogue: 0,0:58:10.22,0:58:11.90,Default,,0,0,0,,Te veo en el Gremio, Hei.
+Dialogue: 0,0:58:10.22,0:58:11.90,Default,,0,0,0,,Te veo en el Gremio, XiaoHei.
 Dialogue: 0,0:58:13.76,0:58:14.65,Default,,0,0,0,,Ah, por cierto,
 Dialogue: 0,0:58:14.65,0:58:15.92,Default,,0,0,0,,¡bienvenido a la ciudad!
 Dialogue: 0,0:58:16.26,0:58:18.42,Default,,0,0,0,,Te va a encantar aquí.
@@ -711,7 +713,7 @@ Dialogue: 0,1:00:45.19,1:00:47.32,Default,,0,0,0,,¿Qué ha hecho?
 Dialogue: 0,1:00:49.60,1:00:50.89,Default,,0,0,0,,Nunca me alcanzarás.
 Dialogue: 0,1:01:05.32,1:01:06.25,Default,,0,0,0,,¡Deténganlo!
 Dialogue: 0,1:01:09.02,1:01:09.72,Default,,0,0,0,,Tú...
-Dialogue: 0,1:01:17.65,1:01:18.46,Default,,0,0,0,,Hei.
+Dialogue: 0,1:01:17.65,1:01:18.46,Default,,0,0,0,,XiaoHei.
 Dialogue: 0,1:01:23.82,1:01:25.48,Default,,0,0,0,,¡Papá, papá!
 Dialogue: 0,1:01:25.48,1:01:26.63,Default,,0,0,0,,Papá...
 Dialogue: 0,1:01:26.63,1:01:27.79,Default,,0,0,0,,¡Papá!
@@ -746,18 +748,18 @@ Dialogue: 0,1:03:13.05,1:03:14.76,Default,,0,0,0,,Y si el conductor no despierta
 Dialogue: 0,1:03:14.76,1:03:16.59,Default,,0,0,0,,puede que tenga que\Ndetener el tren a la fuerza.
 Dialogue: 0,1:03:17.74,1:03:20.66,Default,,0,0,0,,¿De verdad me dijiste\Nque proteja a esos humanos?
 Dialogue: 0,1:03:20.66,1:03:21.90,Default,,0,0,0,,Y lo hiciste bien.
-Dialogue: 0,1:03:32.16,1:03:32.92,Default,,0,0,0,,¡Hei!
+Dialogue: 0,1:03:32.16,1:03:32.92,Default,,0,0,0,,¡XiaoHei!
 Dialogue: 0,1:03:32.92,1:03:33.78,Default,,0,0,0,,Vengo a llevarte a casa.
 Dialogue: 0,1:03:34.13,1:03:35.05,Default,,0,0,0,,¡FengXi!
-Dialogue: 0,1:03:35.05,1:03:36.07,Default,,0,0,0,,Hei.
+Dialogue: 0,1:03:35.05,1:03:36.07,Default,,0,0,0,,XiaoHei.
 Dialogue: 0,1:03:36.07,1:03:37.37,Default,,0,0,0,,Está con ellos.
 Dialogue: 0,1:03:38.18,1:03:38.67,Default,,0,0,0,,¿Eh?
-Dialogue: 0,1:03:39.12,1:03:40.00,Default,,0,0,0,,Llévate a Hei.
+Dialogue: 0,1:03:39.12,1:03:40.00,Default,,0,0,0,,Llévate a XiaoHei.
 Dialogue: 0,1:03:51.04,1:03:51.93,Default,,0,0,0,,Te has vuelto más fuerte.
 Dialogue: 0,1:03:51.93,1:03:52.64,Default,,0,0,0,,¡Claro que sí!
 Dialogue: 0,1:04:00.77,1:04:02.10,Default,,0,0,0,,{\i1}¿La Onda Sónica del señor Min?
 Dialogue: 0,1:04:04.93,1:04:05.66,Default,,0,0,0,,¡Maldito!
-Dialogue: 0,1:04:05.66,1:04:06.40,Default,,0,0,0,,¡Hei!
+Dialogue: 0,1:04:05.66,1:04:06.40,Default,,0,0,0,,¡XiaoHei!
 Dialogue: 0,1:04:06.69,1:04:08.05,Default,,0,0,0,,¡Iré a buscarte!
 Dialogue: 0,1:04:22.38,1:04:22.93,Default,,0,0,0,,Maestro WuXian.
 Dialogue: 0,1:04:22.93,1:04:24.12,Default,,0,0,0,,Ayuden a los pasajeros.
@@ -769,11 +771,11 @@ Dialogue: 0,1:04:30.94,1:04:31.76,Default,,0,0,0,,¿Qué?
 Dialogue: 0,1:04:32.26,1:04:34.04,Default,,0,0,0,,¿Por qué no lo sabía?
 Dialogue: 0,1:04:34.04,1:04:35.90,Default,,0,0,0,,Lo ha mantenido secreto.
 Dialogue: 0,1:04:40.84,1:04:42.42,Default,,0,0,0,,Entonces su objetivo siempre fue...
-Dialogue: 0,1:04:43.25,1:04:44.52,Default,,0,0,0,,Hei.
+Dialogue: 0,1:04:43.25,1:04:44.52,Default,,0,0,0,,XiaoHei.
 Dialogue: 0,1:04:45.10,1:04:47.88,Default,,0,0,0,,¿El pequeño espíritu que\Nmencionó el señor JiuLao?
 Dialogue: 0,1:04:47.88,1:04:49.18,Default,,0,0,0,,Correcto.
-Dialogue: 0,1:04:49.18,1:04:50.57,Default,,0,0,0,,Hei tiene La Zona.
-Dialogue: 0,1:04:50.91,1:04:52.17,Default,,0,0,0,,¿La Zona?
+Dialogue: 0,1:04:49.18,1:04:50.57,Default,,0,0,0,,XiaoHei tiene Dominio.
+Dialogue: 0,1:04:50.91,1:04:52.17,Default,,0,0,0,,¿Dominio?
 Dialogue: 0,1:04:53.17,1:04:54.89,Default,,0,0,0,,Si eso es cierto...
 Dialogue: 0,1:04:55.53,1:04:57.40,Default,,0,0,0,,Si le quita su poder, él...
 Dialogue: 0,1:04:58.12,1:05:00.62,Default,,0,0,0,,Nunca lo vi como un peligro.
@@ -799,7 +801,7 @@ Dialogue: 0,1:05:35.16,1:05:36.47,Default,,0,0,0,,¿Es tan serio el caso?
 Dialogue: 0,1:05:36.47,1:05:37.80,Default,,0,0,0,,Va a causar pánico.
 Dialogue: 0,1:05:37.80,1:05:39.78,Default,,0,0,0,,Le pediré cooperación al alcalde.
 Dialogue: 0,1:05:39.78,1:05:41.75,Default,,0,0,0,,Tenemos que prepararnos para lo peor.
-Dialogue: 0,1:05:42.25,1:05:44.38,Default,,0,0,0,,Ni siquiera LaoJun puede disipar La Zona.
+Dialogue: 0,1:05:42.25,1:05:44.38,Default,,0,0,0,,Ni siquiera LaoJun puede disipar Dominio.
 Dialogue: 0,1:05:44.38,1:05:45.52,Default,,0,0,0,,Esto es serio.
 Dialogue: 0,1:05:45.52,1:05:45.83,Default,,0,0,0,,Claro.{Entendido.}
 Dialogue: 0,1:05:50.12,1:05:52.92,Default,,0,0,0,,Sobre cuando le quiten su poder...
@@ -856,9 +858,9 @@ Dialogue: 0,1:08:30.59,1:08:32.78,Default,,0,0,0,,Tal vez, pronto
 Dialogue: 0,1:08:32.78,1:08:34.82,Default,,0,0,0,,los humanos dominarán a los espíritus.
 Dialogue: 0,1:08:34.82,1:08:37.39,Default,,0,0,0,,Y aún así, el Gremio intenta\Nconservar ese balance.
 Dialogue: 0,1:08:39.33,1:08:40.81,Default,,0,0,0,,Necesito tu ayuda.
-Dialogue: 0,1:08:40.81,1:08:41.64,Default,,0,0,0,,Hei.
+Dialogue: 0,1:08:40.81,1:08:41.64,Default,,0,0,0,,XiaoHei.
 Dialogue: 0,1:08:44.90,1:08:46.26,Default,,0,0,0,,Tal vez no te hayas dado cuenta.
-Dialogue: 0,1:08:46.83,1:08:49.94,Default,,0,0,0,,Tu poder de La Zona puede\Nexpandir tu Espacio Espiritual.
+Dialogue: 0,1:08:46.83,1:08:49.94,Default,,0,0,0,,Tu poder de Dominio puede\Nexpandir tu Espacio Espiritual.
 Dialogue: 0,1:08:49.94,1:08:50.92,Default,,0,0,0,,Y todo lo que esté en él,
 Dialogue: 0,1:08:50.92,1:08:52.31,Default,,0,0,0,,se convertirá en tuyo.
 Dialogue: 0,1:08:53.38,1:08:54.76,Default,,0,0,0,,Y en ese mundo,
@@ -869,7 +871,7 @@ Dialogue: 0,1:09:00.33,1:09:01.50,Default,,0,0,0,,Yo te ayudaré.
 Dialogue: 0,1:09:02.13,1:09:03.68,Default,,0,0,0,,Sacaremos a todos los humanos
 Dialogue: 0,1:09:03.68,1:09:05.03,Default,,0,0,0,,y viviremos felices por siempre.
 Dialogue: 0,1:09:10.56,1:09:13.08,Default,,0,0,0,,¿Por eso eras tan amable conmigo?
-Dialogue: 0,1:09:24.12,1:09:24.94,Default,,0,0,0,,Hei.
+Dialogue: 0,1:09:24.12,1:09:24.94,Default,,0,0,0,,XiaoHei.
 Dialogue: 0,1:09:26.37,1:09:27.61,Default,,0,0,0,,Nunca lo olvides.
 Dialogue: 0,1:09:27.61,1:09:29.23,Default,,0,0,0,,Fueron los humanos los que nos botaron.
 Dialogue: 0,1:09:29.84,1:09:30.51,Default,,0,0,0,,Yo...
@@ -897,7 +899,7 @@ Dialogue: 0,1:10:14.98,1:10:16.12,Default,,0,0,0,,Pero, a final de cuentas,
 Dialogue: 0,1:10:15.42,1:10:17.92,Default,,0,0,0,,{\an8}¡Espera, espera!
 Dialogue: 0,1:10:16.91,1:10:18.49,Default,,0,0,0,,igual nos quedaremos sin hogar.
 Dialogue: 0,1:10:17.92,1:10:18.49,Default,,0,0,0,,{\an8}¡FengXi!
-Dialogue: 0,1:10:20.07,1:10:21.65,Default,,0,0,0,,Perdón, Hei.
+Dialogue: 0,1:10:20.07,1:10:21.65,Default,,0,0,0,,Perdón, XiaoHei.
 Dialogue: 0,1:10:22.83,1:10:24.97,Default,,0,0,0,,Necesito tu poder.
 Dialogue: 0,1:10:24.97,1:10:26.49,Default,,0,0,0,,¡FengXi!
 Dialogue: 0,1:10:34.39,1:10:35.48,Default,,0,0,0,,¡FengXi!
@@ -906,8 +908,8 @@ Dialogue: 0,1:10:37.02,1:10:37.96,Default,,0,0,0,,¡FengXi!
 Dialogue: 0,1:10:38.69,1:10:40.22,Default,,0,0,0,,¡No lo hagas!
 Dialogue: 0,1:10:40.22,1:10:41.50,Default,,0,0,0,,¡FengXi!
 Dialogue: 0,1:10:42.17,1:10:43.31,Default,,0,0,0,,¡FengXi!
-Dialogue: 0,1:10:53.37,1:10:54.40,Default,,0,0,0,,¿Esta es...
-Dialogue: 0,1:10:54.92,1:10:55.98,Default,,0,0,0,,La Zona?
+Dialogue: 0,1:10:53.37,1:10:54.40,Default,,0,0,0,,¿Esto es...
+Dialogue: 0,1:10:54.92,1:10:55.98,Default,,0,0,0,,Dominio?
 Dialogue: 0,1:11:02.60,1:11:05.37,Default,,0,0,0,,{\i1}Los cuarteles nos lo acaban de confirmar.
 Dialogue: 0,1:11:05.37,1:11:06.86,Default,,0,0,0,,{\i1}Le pusieron "Robo" al poder de FengXi.
 Dialogue: 0,1:11:07.33,1:11:10.06,Default,,0,0,0,,{\i1}Es el poder más agresivo de su tipo.
@@ -915,9 +917,9 @@ Dialogue: 0,1:11:10.06,1:11:12.58,Default,,0,0,0,,{\i1}Es capaz de robar el man�
 Dialogue: 0,1:11:13.68,1:11:18.64,Default,,0,0,0,,{\i1}Robó Onda Sónica, Trazo Mágico y Bomba de Tiempo para pelear contra ti.
 Dialogue: 0,1:11:19.44,1:11:21.49,Default,,0,0,0,,Sin embargo, estos poderes\Nque robó no durarán para siempre.
 Dialogue: 0,1:11:22.52,1:11:23.68,Default,,0,0,0,,Pero...
-Dialogue: 0,1:11:23.68,1:11:25.49,Default,,0,0,0,,Si su objetivo real es La Zona,
+Dialogue: 0,1:11:23.68,1:11:25.49,Default,,0,0,0,,Si su objetivo real es Dominio,
 Dialogue: 0,1:11:26.25,1:11:28.56,Default,,0,0,0,,una vez que se establece,
-Dialogue: 0,1:11:28.56,1:11:30.50,Default,,0,0,0,,no puede ser dispersado
+Dialogue: 0,1:11:28.56,1:11:30.50,Default,,0,0,0,,no podrá ser dispersado
 Dialogue: 0,1:11:30.50,1:11:32.29,Default,,0,0,0,,por la peculiaridad de\Nlos poderes tipo Espacio.
 Dialogue: 0,1:11:32.29,1:11:33.77,Default,,0,0,0,,Ese maldito...
 Dialogue: 0,1:11:33.77,1:11:35.00,Default,,0,0,0,,¡Maestro, lo encontramos!
@@ -925,16 +927,16 @@ Dialogue: 0,1:11:35.00,1:11:36.97,Default,,0,0,0,,Detecté la onda espiritual de
 Dialogue: 0,1:11:38.87,1:11:40.36,Default,,0,0,0,,El poder que acabo de usar
 Dialogue: 0,1:11:40.36,1:11:41.90,Default,,0,0,0,,debe de haber sido detectado por los centinelas. {meh}
 Dialogue: 0,1:11:42.35,1:11:44.44,Default,,0,0,0,,Debemos dispersarnos ahora.
-Dialogue: 0,1:11:45.00,1:11:46.97,Default,,0,0,0,,Ni bien vean que La Zona se ha establecido,
+Dialogue: 0,1:11:45.00,1:11:46.97,Default,,0,0,0,,Ni bien vean que Dominio se ha establecido,
 Dialogue: 0,1:11:46.97,1:11:47.63,Default,,0,0,0,,búsquennos.
 Dialogue: 0,1:11:47.63,1:11:48.58,Default,,0,0,0,,Entendido.
 Dialogue: 0,1:11:49.91,1:11:50.59,Default,,0,0,0,,Váyanse.
 Dialogue: 0,1:11:55.33,1:11:56.02,Default,,0,0,0,,XuHuai.
-Dialogue: 0,1:12:21.97,1:12:22.78,Default,,0,0,0,,Hei.
-Dialogue: 0,1:12:23.64,1:12:24.44,Default,,0,0,0,,Hei.
-Dialogue: 0,1:12:27.30,1:12:28.44,Default,,0,0,0,,Hei.
+Dialogue: 0,1:12:21.97,1:12:22.78,Default,,0,0,0,,XiaoHei.
+Dialogue: 0,1:12:23.64,1:12:24.44,Default,,0,0,0,,XiaoHei.
+Dialogue: 0,1:12:27.30,1:12:28.44,Default,,0,0,0,,XiaoHei.
 Dialogue: 0,1:12:28.44,1:12:29.45,Default,,0,0,0,,Soy yo.
-Dialogue: 0,1:12:30.71,1:12:32.13,Default,,0,0,0,,Soy yo, WuXian, Hei.
+Dialogue: 0,1:12:30.71,1:12:32.13,Default,,0,0,0,,XiaoHei, soy yo, WuXian.
 Dialogue: 0,1:12:47.05,1:12:47.86,Default,,0,0,0,,¿Se encuentra bien?
 Dialogue: 0,1:12:48.96,1:12:51.35,Default,,0,0,0,,Su Espacio Espiritual se está desvaneciendo.
 Dialogue: 0,1:12:51.35,1:12:53.22,Default,,0,0,0,,Lo llevaré con LaoJun.
@@ -943,7 +945,7 @@ Dialogue: 0,1:12:54.90,1:12:57.03,Default,,0,0,0,,entonces no necesitaríamos\Nl
 Dialogue: 0,1:12:57.03,1:12:58.23,Default,,0,0,0,,¿Entonces qué hacemos?
 Dialogue: 0,1:12:58.23,1:13:00.73,Default,,0,0,0,,Debemos recuperar el Espacio Espiritual que FengXi se robó.
 Dialogue: 0,1:13:00.73,1:13:03.44,Default,,0,0,0,,Dame las posibles ubicaciones de FengXi.
-Dialogue: 0,1:13:07.21,1:13:08.78,Default,,0,0,0,,Te confío Hei a ti.
+Dialogue: 0,1:13:07.21,1:13:08.78,Default,,0,0,0,,Te confío XiaoHei a ti.
 Dialogue: 0,1:13:08.78,1:13:09.69,Default,,0,0,0,,No te preocupes.
 Dialogue: 0,1:13:13.49,1:13:15.49,Default,,0,0,0,,Ubicación uno revisada.\NEs XuHuai.
 Dialogue: 0,1:13:16.86,1:13:17.87,Default,,0,0,0,,Pido refuerzos.
@@ -952,12 +954,12 @@ Dialogue: 0,1:13:21.21,1:13:23.25,Default,,0,0,0,,Todos están usando el aroma\N
 Dialogue: 0,1:13:27.02,1:13:28.19,Default,,0,0,0,,Ubicación tres vacía.
 Dialogue: 0,1:13:28.19,1:13:29.60,Default,,0,0,0,,Dame las siguientes coordenadas.
 Dialogue: 0,1:14:14.51,1:14:15.64,Default,,0,0,0,,¡WuXian!
-Dialogue: 0,1:14:17.55,1:14:20.23,Default,,0,0,0,,Devuélvele el espacio espiritual a Hei.
+Dialogue: 0,1:14:17.55,1:14:20.23,Default,,0,0,0,,Devuélvele el espacio espiritual a XiaoHei.
 Dialogue: 0,1:14:20.23,1:14:21.89,Default,,0,0,0,,El espacio espiritual se estabilizó
 Dialogue: 0,1:14:22.46,1:14:23.94,Default,,0,0,0,,y no hay vuelta atrás.
 Dialogue: 0,1:14:25.02,1:14:26.31,Default,,0,0,0,,Llegas tarde. {Vas un paso atrás}
 Dialogue: 0,1:14:27.64,1:14:29.45,Default,,0,0,0,,¿Por qué haces esto?
-Dialogue: 0,1:14:29.95,1:14:31.49,Default,,0,0,0,,Si Hei muere,
+Dialogue: 0,1:14:29.95,1:14:31.49,Default,,0,0,0,,Si XiaoHei muere,
 Dialogue: 0,1:14:31.49,1:14:33.63,Default,,0,0,0,,entonces no estás\Nhaciendo esto por los espíritus.
 Dialogue: 0,1:14:33.63,1:14:34.52,Default,,0,0,0,,Yo...
 Dialogue: 0,1:14:35.52,1:14:36.41,Default,,0,0,0,,Sin comentarios.
@@ -975,7 +977,7 @@ Dialogue: 0,1:16:23.18,1:16:24.94,Default,,0,0,0,,Ve con alguien a frenar las se
 Dialogue: 0,1:16:24.94,1:16:26.07,Default,,0,0,0,,Empiecen la limpieza.
 Dialogue: 0,1:16:26.07,1:16:26.77,Default,,0,0,0,,Entendido.
 Dialogue: 0,1:16:26.77,1:16:30.10,Default,,0,0,0,,A todos los Ejecutores.
-Dialogue: 0,1:16:30.10,1:16:31.66,Default,,0,0,0,,La Zona está emergiendo en el centro.
+Dialogue: 0,1:16:30.10,1:16:31.66,Default,,0,0,0,,Dominio está emergiendo en el centro.
 Dialogue: 0,1:16:31.66,1:16:33.15,Default,,0,0,0,,Todos, rodéenlo.
 Dialogue: 0,1:16:33.15,1:16:34.59,Default,,0,0,0,,Apresuren la evacuación.
 Dialogue: 0,1:16:42.00,1:16:43.37,Default,,0,0,0,,{\i1}Último momento.
@@ -1012,7 +1014,7 @@ Dialogue: 0,1:20:33.90,1:20:35.16,Default,,0,0,0,,¿Esto es en serio?
 Dialogue: 0,1:20:35.16,1:20:36.85,Default,,0,0,0,,¿Estos son los que tantos problemas causan?
 Dialogue: 0,1:20:37.67,1:20:38.37,Default,,0,0,0,,Maestro Nezha.
 Dialogue: 0,1:20:38.37,1:20:39.07,Default,,0,0,0,,Maestro del Gremio.
-Dialogue: 0,1:20:39.07,1:20:41.41,Default,,0,0,0,,Infinito entró a La Zona.
+Dialogue: 0,1:20:39.07,1:20:41.41,Default,,0,0,0,,Infinito entró al Dominio.
 Dialogue: 0,1:20:41.41,1:20:42.89,Default,,0,0,0,,¿Entró?
 Dialogue: 0,1:20:42.89,1:20:43.93,Default,,0,0,0,,No parece su estilo.
 Dialogue: 0,1:20:43.93,1:20:45.33,Default,,0,0,0,,Qué imprudente.
@@ -1029,12 +1031,12 @@ Dialogue: 0,1:21:24.52,1:21:25.97,Default,,0,0,0,,Buena suerte, entonces.
 Dialogue: 0,1:21:25.97,1:21:28.15,Default,,0,0,0,,Odio a los espíritus tipo Espacio.
 Dialogue: 0,1:21:31.36,1:21:31.83,Default,,0,0,0,,¿Cómo te fue?
 Dialogue: 0,1:21:32.46,1:21:34.00,Default,,0,0,0,,Casi todos los civiles fueron evacuados.
-Dialogue: 0,1:21:34.37,1:21:35.59,Default,,0,0,0,,¿Cómo está Hei?
+Dialogue: 0,1:21:34.37,1:21:35.59,Default,,0,0,0,,¿Cómo está XiaoHei?
 Dialogue: 0,1:21:36.06,1:21:37.20,Default,,0,0,0,,Sigue inconsciente.
-Dialogue: 0,1:21:37.82,1:21:39.69,Default,,0,0,0,,La expansión de La Zona se está deteniendo.
+Dialogue: 0,1:21:37.82,1:21:39.69,Default,,0,0,0,,La expansión del Dominio se está deteniendo.
 Dialogue: 0,1:21:39.69,1:21:41.42,Default,,0,0,0,,WuXian debió encontrar a FengXi.
 Dialogue: 0,1:21:44.23,1:21:47.26,Default,,0,0,0,,Pero quién sabe si sobrevivirá\Npara cuando WuXian salga.
-Dialogue: 0,1:21:52.06,1:21:54.72,Default,,0,0,0,,Hei, ¿por qué no te quedas con nosotros?
+Dialogue: 0,1:21:52.06,1:21:54.72,Default,,0,0,0,,XiaoHei, ¿por qué no te quedas con nosotros?
 Dialogue: 0,1:21:55.68,1:21:56.47,Default,,0,0,0,,Yo...
 Dialogue: 0,1:21:57.30,1:21:58.52,Default,,0,0,0,,Entonces, desde ahora,
 Dialogue: 0,1:21:58.52,1:21:59.36,Default,,0,0,0,,nuestro hogar es tu hogar. {checked} {\fad(0,240)}
@@ -1064,15 +1066,15 @@ Dialogue: 0,1:25:08.58,1:25:09.34,Default,,0,0,0,,No te muevas.
 Dialogue: 0,1:25:18.28,1:25:19.22,Default,,0,0,0,,WuXian.
 Dialogue: 0,1:25:20.46,1:25:22.54,Default,,0,0,0,,No importa si estoy en lo correcto o no.
 Dialogue: 0,1:25:23.41,1:25:25.89,Default,,0,0,0,,Ya no hay marcha atrás. {meh?}
-Dialogue: 0,1:25:25.89,1:25:27.96,Default,,0,0,0,,Si Hei no te hubiese conocido,
-Dialogue: 0,1:25:29.09,1:25:31.71,Default,,0,0,0,,él me hubiese ayudado a crear La Zona
+Dialogue: 0,1:25:25.89,1:25:27.96,Default,,0,0,0,,Si XiaoHei no te hubiese conocido,
+Dialogue: 0,1:25:29.09,1:25:31.71,Default,,0,0,0,,él me hubiera ayudado a crear un Dominio
 Dialogue: 0,1:25:32.26,1:25:34.45,Default,,0,0,0,,y construiría un hogar para espíritus conmigo.
 Dialogue: 0,1:25:35.15,1:25:36.32,Default,,0,0,0,,Si eso hubiese pasado,
 Dialogue: 0,1:25:37.06,1:25:38.83,Default,,0,0,0,,él estaría feliz.
 Dialogue: 0,1:25:40.23,1:25:40.79,Default,,0,0,0,,Pero qué pena.
 Dialogue: 0,1:25:42.52,1:25:44.37,Default,,0,0,0,,No hay marcha atrás.
 Dialogue: 0,1:25:47.08,1:25:48.12,Default,,0,0,0,,¿Qué demonios?
-Dialogue: 0,1:25:56.97,1:25:57.98,Default,,0,0,0,,¡Hei!
+Dialogue: 0,1:25:56.97,1:25:57.98,Default,,0,0,0,,¡XiaoHei!
 Dialogue: 0,1:25:58.47,1:25:59.64,Default,,0,0,0,,¿Quién te dijo que sería feliz?
 Dialogue: 0,1:26:03.64,1:26:04.73,Default,,0,0,0,,¿Qué?
 Dialogue: 0,1:26:04.73,1:26:06.06,Default,,0,0,0,,¡Esto es imposible!
@@ -1081,47 +1083,47 @@ Dialogue: 0,1:26:32.38,1:26:33.58,Default,,0,0,0,,No lo sé.
 Dialogue: 0,1:26:33.58,1:26:35.56,Default,,0,0,0,,Se sintió como tomar una siesta,
 Dialogue: 0,1:26:35.56,1:26:37.69,Default,,0,0,0,,y luego escuché que\N te golpeaban en mi sueño.
 Dialogue: 0,1:26:50.37,1:26:53.11,Default,,0,0,0,,Debemos derrotar\N a FengXi y salir de aquí.
-Dialogue: 0,1:26:53.11,1:26:54.53,Default,,0,0,0,,Hei.
+Dialogue: 0,1:26:53.11,1:26:54.53,Default,,0,0,0,,XiaoHei.
 Dialogue: 0,1:26:54.53,1:26:55.48,Default,,0,0,0,,Necesito tu ayuda.
 Dialogue: 0,1:26:56.70,1:26:58.59,Default,,0,0,0,,No sé como hice eso.
 Dialogue: 0,1:26:58.59,1:26:59.43,Default,,0,0,0,,Y...
-Dialogue: 0,1:26:59.97,1:27:00.80,Default,,0,0,0,,Hei.
+Dialogue: 0,1:26:59.97,1:27:00.80,Default,,0,0,0,,XiaoHei.
 Dialogue: 0,1:27:01.29,1:27:03.44,Default,,0,0,0,,Este es tu Espacio Espiritual.
 Dialogue: 0,1:27:04.75,1:27:06.29,Default,,0,0,0,,En este espacio,
 Dialogue: 0,1:27:06.29,1:27:08.82,Default,,0,0,0,,estás en control de todo.
 Dialogue: 0,1:27:10.62,1:27:11.50,Default,,0,0,0,,Y, además,
 Dialogue: 0,1:27:12.05,1:27:13.09,Default,,0,0,0,,estoy aquí para guiarte.
 Dialogue: 0,1:27:14.82,1:27:15.68,Default,,0,0,0,,Perdón,
-Dialogue: 0,1:27:16.46,1:27:16.88,Default,,0,0,0,,Hei.
+Dialogue: 0,1:27:16.46,1:27:16.88,Default,,0,0,0,,XiaoHei.
 Dialogue: 0,1:27:21.19,1:27:21.72,Default,,0,0,0,,Ve.
 Dialogue: 0,1:27:30.44,1:27:31.57,Default,,0,0,0,,¡Muy bien!
 Dialogue: 0,1:28:26.28,1:28:28.37,Default,,0,0,0,,¡¿Cómo te atreves?!
-Dialogue: 0,1:28:36.80,1:28:37.59,Default,,0,0,0,,Hei.
-Dialogue: 0,1:28:45.85,1:28:47.20,Default,,0,0,0,,Tienes que pensar.
-Dialogue: 0,1:28:47.20,1:28:48.76,Default,,0,0,0,,Este es tu Espacio Espiritual.
+Dialogue: 0,1:28:36.80,1:28:37.59,Default,,0,0,0,,¡XiaoHei!
+Dialogue: 0,1:28:45.85,1:28:47.20,Default,,0,0,0,,¡Tienes que pensar!
+Dialogue: 0,1:28:47.20,1:28:48.76,Default,,0,0,0,,¡Este es tu Espacio Espiritual!
 Dialogue: 0,1:28:48.76,1:28:50.90,Default,,0,0,0,,¡Este Espacio es mío!
 Dialogue: 0,1:28:56.40,1:28:57.94,Default,,0,0,0,,¡Muere!
-Dialogue: 0,1:28:57.94,1:28:58.77,Default,,0,0,0,,Hei.
-Dialogue: 0,1:29:21.81,1:29:22.67,Default,,0,0,0,,Hei.
+Dialogue: 0,1:28:57.94,1:28:58.77,Default,,0,0,0,,¡XiaoHei!
+Dialogue: 0,1:29:21.81,1:29:22.67,Default,,0,0,0,,XiaoHei.
 Dialogue: 0,1:29:24.19,1:29:25.18,Default,,0,0,0,,¿Tú hiciste esto?
 Dialogue: 0,1:29:39.63,1:29:40.36,Default,,0,0,0,,No puede ser.
 Dialogue: 0,1:29:41.27,1:29:41.82,Default,,0,0,0,,Esto...
 Dialogue: 0,1:29:42.57,1:29:43.70,Default,,0,0,0,,¡no puede estar pasando!
 Dialogue: 0,1:30:19.82,1:30:20.36,Default,,0,0,0,,¡Mataré...!
 Dialogue: 0,1:30:21.63,1:30:22.57,Default,,0,0,0,,Ya es hora.
-Dialogue: 0,1:30:22.89,1:30:23.99,Default,,0,0,0,,Disipa La Zona. {meh?}
-Dialogue: 0,1:30:24.89,1:30:26.21,Default,,0,0,0,,¡Hei!
-Dialogue: 0,1:30:26.21,1:30:28.80,Default,,0,0,0,,¡En La Zona tú eres un dios!
+Dialogue: 0,1:30:22.89,1:30:23.99,Default,,0,0,0,,Disipa el Dominio. {meh?}
+Dialogue: 0,1:30:24.89,1:30:26.21,Default,,0,0,0,,¡XiaoHei!
+Dialogue: 0,1:30:26.21,1:30:28.80,Default,,0,0,0,,¡Dentro de Dominio, tú eres un dios!
 Dialogue: 0,1:30:28.80,1:30:30.72,Default,,0,0,0,,¡No puedes revertirlo!
 Dialogue: 0,1:30:30.72,1:30:33.46,Default,,0,0,0,,¡Si lo haces, desaparecerá por siempre!
 Dialogue: 0,1:30:34.09,1:30:34.83,Default,,0,0,0,,No me importa. {holy based}
-Dialogue: 0,1:30:34.83,1:30:36.07,Default,,0,0,0,,¡Hei!
+Dialogue: 0,1:30:34.83,1:30:36.07,Default,,0,0,0,,¡XiaoHei!
 Dialogue: 0,1:30:36.07,1:30:37.34,Default,,0,0,0,,¡No!
-Dialogue: 0,1:30:38.10,1:30:39.29,Default,,0,0,0,,¡Hei!
-Dialogue: 0,1:30:39.78,1:30:40.30,Default,,0,0,0,,¡Hei!
+Dialogue: 0,1:30:38.10,1:30:39.29,Default,,0,0,0,,¡XiaoHei!
+Dialogue: 0,1:30:39.78,1:30:40.30,Default,,0,0,0,,¡XiaoHei!
 Dialogue: 0,1:30:41.29,1:30:42.15,Default,,0,0,0,,¡Detente!
 Dialogue: 0,1:30:43.48,1:30:44.26,Default,,0,0,0,,¡No lo hagas!
-Dialogue: 0,1:30:45.55,1:30:46.48,Default,,0,0,0,,¡Hei!
+Dialogue: 0,1:30:45.55,1:30:46.48,Default,,0,0,0,,¡XiaoHei!
 Dialogue: 0,1:31:06.53,1:31:07.65,Default,,0,0,0,,¿Ya está?
 Dialogue: 0,1:31:10.76,1:31:11.89,Default,,0,0,0,,WuXian...
 Dialogue: 0,1:31:14.16,1:31:16.23,Default,,0,0,0,,Empiecen a buscar a los atrapados.
@@ -1142,8 +1144,8 @@ Dialogue: 0,1:32:10.98,1:32:12.79,Default,,0,0,0,,durante todo el tiempo que pas
 Dialogue: 0,1:32:15.06,1:32:16.14,Default,,0,0,0,,Ya pensé suficiente.
 Dialogue: 0,1:32:17.46,1:32:18.51,Default,,0,0,0,,Esta vez...
 Dialogue: 0,1:32:20.13,1:32:22.23,Default,,0,0,0,,creo que me quedaré.
-Dialogue: 0,1:32:31.77,1:32:32.59,Default,,0,0,0,,Hei.
-Dialogue: 0,1:32:33.76,1:32:34.61,Default,,0,0,0,,Perdón.
+Dialogue: 0,1:32:31.77,1:32:32.59,Default,,0,0,0,,XiaoHei.
+Dialogue: 0,1:32:33.76,1:32:34.61,Default,,0,0,0,,Perdóname.
 Dialogue: 0,1:32:54.17,1:32:55.15,Default,,0,0,0,,¿Para qué?
 Dialogue: 0,1:32:55.63,1:32:57.79,Default,,0,0,0,,Igual lo van a cortar.
 Dialogue: 0,1:32:57.79,1:33:00.01,Default,,0,0,0,,Tal vez lo conviertan en un parque
@@ -1153,7 +1155,7 @@ Dialogue: 0,1:33:13.22,1:33:16.16,Default,,0,0,0,,¿FengXi era malo?
 Dialogue: 0,1:33:16.74,1:33:17.78,Default,,0,0,0,,No me lo preguntes a mí.
 Dialogue: 0,1:33:19.00,1:33:20.63,Default,,0,0,0,,Tú puedes hacer tu propia respuesta.
 Dialogue: 0,1:33:22.86,1:33:24.40,Default,,0,0,0,,¡WuXian!
-Dialogue: 0,1:33:26.58,1:33:27.95,Default,,0,0,0,,¡Hei!
+Dialogue: 0,1:33:26.58,1:33:27.95,Default,,0,0,0,,¡XiaoHei!
 Dialogue: 0,1:33:40.72,1:33:42.45,Default,,0,0,0,,¿Espacios Espirituales dobles?
 Dialogue: 0,1:33:44.01,1:33:45.56,Default,,0,0,0,,Eso fue.
 Dialogue: 0,1:33:45.56,1:33:47.25,Default,,0,0,0,,Qué cosa tan inusual.
@@ -1183,7 +1185,7 @@ Dialogue: 0,1:35:00.52,1:35:01.27,Default,,0,0,0,,¡Maestro WuXian!
 Dialogue: 0,1:35:02.52,1:35:04.35,Default,,0,0,0,,¡Maestro del Gremio!
 Dialogue: 0,1:35:36.52,1:35:37.04,Default,,0,0,0,,Vamos.
 Dialogue: 0,1:35:37.04,1:35:38.58,Default,,0,0,0,,Te mostraré el lugar.
-Dialogue: 0,1:36:26.44,1:36:27.27,Default,,0,0,0,,Hei.
+Dialogue: 0,1:36:26.44,1:36:27.27,Default,,0,0,0,,XiaoHei.
 Dialogue: 0,1:36:30.48,1:36:32.11,Default,,0,0,0,,Creo que deberíamos despedirnos.
 Dialogue: 0,1:36:41.77,1:36:43.06,Default,,0,0,0,,¿Por qué?
 Dialogue: 0,1:36:43.06,1:36:44.48,Default,,0,0,0,,¿No te vas a quedar?
@@ -1209,20 +1211,11 @@ Dialogue: 0,1:38:53.50,1:38:55.97,Default,,0,0,0,,Solo quiero estar contigo.
 Dialogue: 0,1:39:00.17,1:39:00.92,Default,,0,0,0,,Muy bien.
 
 [Aegisub Extradata]
-Data: 4,_aegi_folddata,e0;0;1
-Data: 5,_aegi_folddata,e1;0;1
-Data: 8,_aegi_folddata,e0;0;2
-Data: 9,_aegi_folddata,e1;0;2
-Data: 10,_aegi_folddata,e0;1;1
-Data: 11,_aegi_folddata,e1;1;1
-Data: 12,_aegi_folddata,e0;1;2
-Data: 13,_aegi_folddata,e1;1;2
-Data: 14,_aegi_folddata,e0;1;3
-Data: 15,_aegi_folddata,e1;1;3
-Data: 16,_aegi_folddata,e0;0;3
-Data: 17,_aegi_folddata,e1;0;3
-Data: 18,_aegi_folddata,e0;1;4
-Data: 19,_aegi_folddata,e1;1;4
-Data: 20,_aegi_folddata,e0;0;4
-Data: 21,_aegi_folddata,e1;0;4
-Data: 22,_aegi_folddata,e0;0;5
+Data: 0,_aegi_folddata,e0;1;1
+Data: 1,_aegi_folddata,e1;1;1
+Data: 2,_aegi_folddata,e0;1;2
+Data: 3,_aegi_folddata,e1;1;2
+Data: 6,_aegi_folddata,e0;1;3
+Data: 7,_aegi_folddata,e1;1;3
+Data: 8,_aegi_folddata,e0;1;4
+Data: 9,_aegi_folddata,e1;1;4
