@@ -31,7 +31,6 @@ Style: Edición,Noto Sans,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:34.12,1:41:32.35,Default,,0,0,0,,{\fs19\an7\fad(3500,0)\3c&H000000&\3a&HFF&\c&HFFFFFF&\1a&HD2&\pos(7.58,5.27)}ZagonSubs
 Dialogue: 0,0:04:01.06,0:04:02.05,DefaultHeixiu,,0,0,0,,No te preocupes.
 Dialogue: 0,0:04:02.05,0:04:03.31,DefaultHeixiu,,0,0,0,,Ya encontraremos un nuevo hogar.
 Dialogue: 0,0:14:05.41,0:14:06.42,DefaultHeixiu,,0,0,0,,Te veo mañana.
